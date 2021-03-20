@@ -3,8 +3,6 @@ I'm currently reimagining the website for my uncle's restaurant in Boothbay Harb
 
 **China By The Sea:** https://chinabythesea.netlify.app
 
-![alt tag](http://placecorgi.com/1200/650)
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
