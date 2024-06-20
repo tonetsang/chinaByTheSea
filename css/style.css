@@ -1802,3 +1802,8 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
