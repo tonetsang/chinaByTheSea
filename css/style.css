@@ -1803,7 +1803,7 @@ textarea.form-control {
   }
 }
 
-.img-fluid {
+.responsive {
   max-width: 100%;
   height: auto;
 }
